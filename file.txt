@@ -1,0 +1,4 @@
+You can also donwload apt package powerline and fonts-powerline this 2.
+
+   ### command is :-
+sudo apt-get install powerline fonts-powerline
